@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.Services.API", "ACMEServices\ACME.Services.API.csproj", "{506573A0-6C76-46C7-BC24-D359E13AC7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.Services.DAL", "ACME.Services.DAL\ACME.Services.DAL.csproj", "{5ADF6B06-02E0-4939-9F5D-468D1082BF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506573A0-6C76-46C7-BC24-D359E13AC7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506573A0-6C76-46C7-BC24-D359E13AC7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506573A0-6C76-46C7-BC24-D359E13AC7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506573A0-6C76-46C7-BC24-D359E13AC7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADF6B06-02E0-4939-9F5D-468D1082BF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADF6B06-02E0-4939-9F5D-468D1082BF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADF6B06-02E0-4939-9F5D-468D1082BF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADF6B06-02E0-4939-9F5D-468D1082BF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965579EB-CE66-4085-B7D3-EE70F310FE96}
+	EndGlobalSection
+EndGlobal
